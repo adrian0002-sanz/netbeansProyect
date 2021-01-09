@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo 'hola mundo, tengo un nuevo';
+        $var ="mi variable";
         ?>
     </body>
 </html>
